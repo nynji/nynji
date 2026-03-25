@@ -2,7 +2,7 @@
 ---
 ### 🚀 About Me
 - 🎓 B.S. in NAOE and Software Engineering, Inha University of Korea
-- 💡 Interested in Data Analysis, ML
+- 💡 Interested in Data Science, NLP, ML
 ---
 ### 🛠 Tech Stack
 
