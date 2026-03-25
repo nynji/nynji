@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**nynji/nynji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm nynji
+---
+## 🚀 About Me
+- 🎓 B.S. in NAOE and Software Engineering, Inha University of Korea
+- 💡 Interested in Data Analysis, ML
+---
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### 💻 Languages
+[Python], [SQL], [Tableau]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data & ML
+Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
+
+--- 
+## 🔥Activities
+BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
+K-Software Empowerment BootCamp | (Jan 2023 - Nov 2023)
