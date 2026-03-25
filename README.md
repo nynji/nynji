@@ -7,12 +7,12 @@
 ### 🛠 Tech Stack
 
 #### 💻 Languages
-[Python], [SQL], [Tableau]
+`Python`, `SQL`, `Tableau`
 
 #### 📊 Data & ML
 Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
 
---- 
+---
 #### 🔥Activities
-BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
-K-Software Empowerment BootCamp | (Jan 2023 - Nov 2023)
+- BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
+- K-Software Empowerment BootCamp | (Jan 2023 - Nov 2023)
