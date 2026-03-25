@@ -1,20 +1,18 @@
-## Hi there 👋
-
-# 👋 Hello, I'm nynji
+## 👋 Hello, I'm nynji
 ---
-## 🚀 About Me
+### 🚀 About Me
 - 🎓 B.S. in NAOE and Software Engineering, Inha University of Korea
 - 💡 Interested in Data Analysis, ML
 ---
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 💻 Languages
+#### 💻 Languages
 [Python], [SQL], [Tableau]
 
-### 📊 Data & ML
+#### 📊 Data & ML
 Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
 
 --- 
-## 🔥Activities
+#### 🔥Activities
 BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
 K-Software Empowerment BootCamp | (Jan 2023 - Nov 2023)
